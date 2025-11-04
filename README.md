@@ -1,19 +1,25 @@
-# [MUSIC_TITLE_HERE] | (Holloway) Chew, Kean Ho's Soundtracks
+# Welcome to Wild West Cafe | (Holloway) Chew, Kean Ho's Soundtracks
 
 [![chewkeanho-soundtracks](Thumbnails/video-thumbnail.jpg)](#)
 
-[MARKETING DESCRIPTION HERE]
+This American Wild West is getting more fun and excitement. Let's spin another
+track out of curiosity.
 
 ```
-#electronicmusic #soundtrack
+#country #soundtrack #violin #melodic #uplifting #lively
 
-DO a $(stat TO/FILE) and then remove unnecessary filesystem info HERE
+  File: Audios/02_Welcome-to-Wild-West-Cafe.mp3
+  Size: 11976704        Blocks: 23392      IO Block: 4096   regular file
+Access: 2025-11-04 14:29:53.277831179 +0800
+Modify: 2025-11-04 14:30:21.033963384 +0800
+Change: 2025-11-04 14:30:21.033963384 +0800
+ Birth: 2025-09-05 10:20:24.624088726 +0800
 
-On Published Date: YYYY-MM-DD
-On YouTube since : YYYY-MM-DD
+On Published Date: 2025-09-05
+On YouTube since : 2025-10-11
 ```
 
-[YouTube](#)
+[YouTube](https://www.youtube.com/watch?v=prfyVW-g5EY)
 
 * [Agreed GIMP License](.internals/terms-of-services/GimpORG_License.pdf)
 * [Agreed GIMP Privacy Policy](.internals/privacy-policy/GimpORG-Privacy-Policy.pdf)
@@ -46,9 +52,9 @@ follows:
 
 ```
 --------------------------------------------------------------------------------
-Title  : [MUSIC_TITLE_HERE]
+Title  : Welcome to Wild West Cafe
 Artist : (Holloway) Chew, Kean Ho + UDIO
-SKU    : chewkeanho-soundtracks-[SKU_HERE]
+SKU    : chewkeanho-soundtracks-welcome-to-wild-west-cafe
 License: (Holloway) Chew, Kean Ho's Proprietary License
 Procure: Coming Soon
 --------------------------------------------------------------------------------
